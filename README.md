@@ -1,6 +1,6 @@
 # vector-builder-bench
 
-A simple benchmark of different vector builder.
+A simple benchmark of different vector builder. Results in `results.html`.
 
 Current tests:
 
